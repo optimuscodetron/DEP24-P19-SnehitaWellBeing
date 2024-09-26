@@ -41,4 +41,5 @@ Contributions to the Snehita Well Being Project are welcome! To contribute:
 - Special Thanks: Dr.Parwinder Singh (Faculty Advisor of SWB) , Dr.Gargi Tiwari (Counselor) , Dr.Arun Kumar(Dean SA) , Dr.Satyam Agarwal (Faculty Advisor of SWB)
 
 
-
+## Original Work Repo:
+-https://github.com/Nikhilg657/DEP24-P19-SnehitaWellBeing
